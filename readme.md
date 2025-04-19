@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # 🚀 Dockerized Node.js Express Application
 
 A simple yet powerful Express.js application containerized with Docker. This project demonstrates the core concepts of Docker while maintaining a clean and efficient workflow.
