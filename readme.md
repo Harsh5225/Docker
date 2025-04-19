@@ -147,7 +147,7 @@ flowchart TD
 
 ---
 
-## 🔮 Next Steps (Challenges for You!)
+## 🔮 Next Steps 
 
 - [ ] Implement **multi-stage builds** for smaller production images
 - [ ] Use **Docker Compose** to manage multi-container apps
